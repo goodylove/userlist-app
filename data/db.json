@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dr. Ali Ahkbar",
+      "email": "ahkbar@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/1.png",
+      "title": "software engineer"
+    },
+    {
+      "id": 2,
+      "name": "Chika Emeh",
+      "email": "emeh@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/2.png",
+      "title": "technical writer"
+    },
+    {
+      "id": 3,
+      "name": "Anita S.",
+      "email": "anita@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/3.png",
+      "title": "product manager"
+    },
+    {
+      "id": 4,
+      "name": "Ada Nnodi",
+      "email": "nnodi@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/6.png",
+      "title": "Nurse"
+    },
+    {
+      "id": 5,
+      "name": "Dainel ola",
+      "email": "dainelola@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/5.png",
+      "title": "cloud engineer"
+    },
+    {
+      "id": 5,
+      "name": "Dainel ola",
+      "email": "dainelola@gmail.com",
+      "address": "lagos nigeria",
+      "phone": "+1239054543443",
+      "img": "../asset/2.png",
+      "title": "cloud engineer"
+    }
+  ]
+}
