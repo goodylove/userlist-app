@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Dr. Ali Ahkbar",
+      "name": "Dr. ali ahkbar",
       "email": "ahkbar@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Chika Emeh",
+      "name": "Chika emeh",
       "email": "emeh@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Anita S.",
+      "name": "Anita s.",
       "email": "anita@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "name": "Ada Nnodi",
+      "name": "Ada nnodi",
       "email": "dainelola@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
