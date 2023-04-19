@@ -5,7 +5,7 @@ import { BiArrowBack } from "react-icons/bi";
 
 const UserDetails = () => {
   const { id } = useParams();
-  const { data } = useFetch(" http://localhost:8000/users/" + id);
+  const { data } = useFetch(" http://localhost:3000/users/" + id);
 
   return (
     <div className=" lg:w-[90%] flex justify-center w-full sm:w-full">

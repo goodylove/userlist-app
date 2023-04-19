@@ -1,22 +1,26 @@
-import React from "react";
+import { randomBytes } from "crypto";
 import { Link } from "react-router-dom";
 
-export type ListOfUsersProps = {
-  data: {
-    name: string;
-    email: string;
-    phone: number;
-    id: number;
-    address: string;
-    img: string;
-    title: string;
-  }[];
+import React from "react";
+
+type filterProps = {
+  searchItem:
+    | {
+        name: string;
+        email: string;
+        phone: number;
+        id: number;
+        address: string;
+        img: string;
+        title: string;
+      }[]
+    | undefined;
 };
-const ListOfUser = ({ data }: ListOfUsersProps) => {
+const FilterItems = ({ searchItem }: filterProps) => {
   return (
-    <div className=" flex justify-center w-full">
+    <div>
       <ul className="grid md:grid-cols-3 w-full flex-wrap gap-3 sm:grid-cols-2 grid-cols-1 ">
-        {data.map((item, index) => {
+        {searchItem?.map((item, index) => {
           return (
             <li
               key={index}
@@ -45,4 +49,4 @@ const ListOfUser = ({ data }: ListOfUsersProps) => {
   );
 };
 
-export default ListOfUser;
+export default FilterItems;
