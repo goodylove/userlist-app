@@ -29,20 +29,20 @@
     },
     {
       "id": 4,
-      "name": "Ada Nnodi",
+      "name": " Dainel ola",
       "email": "nnodi@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
-      "img": "../asset/6.png",
-      "title": "Nurse"
+      "img": "../asset/4.png",
+      "title": "ui ux"
     },
     {
       "id": 5,
-      "name": "Dainel ola",
+      "name": "Ada Nnodi",
       "email": "dainelola@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
-      "img": "../asset/5.png",
+      "img": "../asset/Ellipse 55.png",
       "title": "cloud engineer"
     },
     {
@@ -51,7 +51,7 @@
       "email": "dainelola@gmail.com",
       "address": "lagos nigeria",
       "phone": "+1239054543443",
-      "img": "../asset/2.png",
+      "img": "../asset/4.png",
       "title": "cloud engineer"
     }
   ]

@@ -5,7 +5,7 @@ import useFetch from "../components/UsefetchUsers";
 import Loading from "../components/Loading";
 
 const Home = () => {
-  const { data, errorMessage } = useFetch("http://localhost:8000/users");
+  const { data, errorMessage } = useFetch("http://localhost:3000/users");
 
   return (
     <>
