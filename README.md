@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+ABOUT THE APP
+Run json-server --watch data/db.json to fecth json
+To search for a user input the first letter of any user of your chioce
+To view any of the user details click on the view details button of any user
+
+
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
